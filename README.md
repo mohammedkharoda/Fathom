@@ -5,7 +5,7 @@
 Fathom is an incredible VPN service that is focused provide the most secured way to path through the internet and making sure that your data is safe and it is also having an extension supporting the file scanning from the malicious site and keeping your devices safe from malicious app over the internet 
 
 
-## Tech Stack
+## Design System
 
 **BASIC:** HTML,CSS3,VANILLA JAVASCRIPT,Scrollreveal.js
 
